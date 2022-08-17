@@ -9,6 +9,6 @@ Hello, I am Kayode from Abuja, Nigeria, a Software Developer passionate about cr
 - 👯 I’m looking to collaborate on any projects involving JavaScript, ReactJS and NodeJS
 - 🤔  I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities
 - 💬 Ask me about Front-end Developer
-- 📫 How to reach me: [You can email me](mightybalogun@gmail.com)
+- 📫 How to reach me: You can [email me](mightybalogun@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](altschoolafrica.com/schools/engineering) Class of 2022.
