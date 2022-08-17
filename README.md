@@ -11,4 +11,4 @@ Hello, I am Kayode from Abuja, Nigeria, a Software Developer passionate about cr
 - 💬 Ask me about Front-end Development
 - 📫 How to reach me: You can contact me via my email [mightybalogun@gmail.com](https://www.mightybalogun@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](altschoolafrica.com/schools/engineering) Class of 2022.
+- ⚡ Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
