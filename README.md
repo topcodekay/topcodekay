@@ -11,4 +11,4 @@ Hello, I am Kayode from Kwara, Nigeria, a Software Developer passionate about cr
 - 💬 Ask me about Front-end Developer
 - 📫 How to reach me: [You can email me] (mightybalogun@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm currently studying at [AltSchool Africa](School of Software Engineering) Class of 2022.
+- ⚡ Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](altschoolafrica.com/schools/engineering) Class of 2022.
